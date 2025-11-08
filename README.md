@@ -1,14 +1,14 @@
-Adventure Works Product Sales Report 2024
+# Adventure Works Product Sales Report 2024
 📌 Project Objective
 
 To analyze sales performance across product attributes and customer transaction patterns in order to support better decision-making in product planning, marketing strategy, and operational improvements.
 
-📝 Project Overview
+# 📝 Project Overview
 
 This project uses the Adventure Works sample dataset to build an interactive Power BI dashboard that visualizes product sales data. The dashboard highlights revenue trends by product color, size, category, order status, payment method, shipping method, and monthly performance.
 It provides a comprehensive understanding of which products sell best, how customers prefer to buy, and where business performance can be optimized.
 
-❓ Business Questions
+# ❓ Business Questions
 
 Which product color and size contribute most to total sales?
 
@@ -22,13 +22,13 @@ What are the patterns in order status (Shipped, Processing, Cancelled)?
 
 Which product and operational areas need improvement?
 
-🛠 Tools and Techniques Used
+# 🛠 Tools and Techniques Used
 Tool/Technique	Purpose
 Power BI Desktop	Dashboard creation and data visualization
 Power Query	Data cleaning and transformation
 DAX (Data Analysis Expressions)	Calculated measures and data modeling
 Excel / CSV	Initial data examination and preprocessing
-🔁 Process Summary
+# 🔁 Process Summary
 
 Imported the Adventure Works dataset into Power BI.
 
@@ -42,7 +42,7 @@ Designed interactive visualizations and report pages.
 
 Published dashboard and validated insights.
 
-📊 Key Insights
+# 📊 Key Insights
 
 Blue and Yellow products generated the highest sales.
 
@@ -58,7 +58,7 @@ Air shipping slightly outperformed ground shipping in revenue.
 
 Majority of orders were successfully Shipped, though some were cancelled.
 
-✅ Recommendations
+# ✅ Recommendations
 
 Increase stock and marketing focus on Blue and Downhill products.
 
@@ -68,7 +68,7 @@ Improve efficiency in order handling to reduce Processing and Cancelled orders.
 
 Promote loyalty-based or cashback offers for Credit Card users since usage is high.
 
-📦 Project Deliverables
+# 📦 Project Deliverables
 
 Power BI .pbix Dashboard File
 
@@ -78,28 +78,33 @@ Dataset (if permitted to publish)
 
 Insight Summary & Business Recommendations Documentation
 
-🖼 Sample Screenshots
+# 🖼 Sample Screenshots
 ### Dashboard Page 1
+<img width="1281" height="696" alt="Adventure Works Product Sales Report 2024-2" src="https://github.com/user-attachments/assets/a13ac2d3-73f2-4841-bc2c-ae74c2383a88" />
 
 
 ### Dashboard Page 2
+<img width="1289" height="780" alt="Adventure Works Product Sales Report 2024-1" src="https://github.com/user-attachments/assets/2be88028-0cb2-43c6-9c5c-11b55aa490ff" />
 
 
 
-Create a folder named Images and upload your screenshots there.
 
-🌐 Output & Live Dashboard Link
 
-If you publish to Power BI Service, paste your link here:
+# 🌐 Output & Live Dashboard Link
+
+
 
 Live Dashboard: 
+<img width="1289" height="780" alt="Adventure Works Product Sales Report 2024-1" src="https://github.com/user-attachments/assets/57136e62-f539-44f5-a244-cffc785bf6a5" />
+<img width="1281" height="696" alt="Adventure Works Product Sales Report 2024-2" src="https://github.com/user-attachments/assets/a13ac2d3-73f2-4841-bc2c-ae74c2383a88" />
 
 
-🤝 Contributions
+
+# 🤝 Contributions
 
 Contributions and suggestions are welcome. Open an issue or submit a pull request.
 
-📧 Contact
+# 📧 Contact
 
 For collaboration or queries: 
 Email : supriyakusuma0905@gmail.com 
