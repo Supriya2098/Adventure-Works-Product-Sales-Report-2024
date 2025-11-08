@@ -1,5 +1,5 @@
 # Adventure Works Product Sales Report 2024
-📌 Project Objective
+# 📌 Project Objective
 
 To analyze sales performance across product attributes and customer transaction patterns in order to support better decision-making in product planning, marketing strategy, and operational improvements.
 
